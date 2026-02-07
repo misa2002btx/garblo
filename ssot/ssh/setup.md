@@ -4,6 +4,4 @@
 2. Type passphare insides `passphare.txt` (ask admin)
 3. Run `descrypt.sh` by terminal to get `key.pem` from `key.gpg`
 4. Run `setup_ssh.sh` to config ssh with `key.pem`
-5. Run setup_git.sh to config ssh with github. Expected Output:
-
-- visit github repo link then open `ssot/ssh/hello.txt` to watch your laptop name successfully.
+5. Run setup_git.sh to config ssh with github by your code name. (E.g: your full name is Pham Tan Phuc, your codename is phucpt)
